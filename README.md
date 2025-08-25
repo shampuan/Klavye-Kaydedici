@@ -5,6 +5,7 @@ Klavye tuşlarını sayar ve istatisik oluşturmanıza yardım eder
 
 
 Updated to V1.1.1
-<img width="402" height="533" alt="Ekran görüntüsü_2025-08-25_02-43-47" src="https://github.com/user-attachments/assets/c550ede4-1d37-49f5-a719-d156de4cd9b1" />
 
-<img width="602" height="633" alt="Ekran görüntüsü_2025-08-25_02-44-02" src="https://github.com/user-attachments/assets/a3730c2b-46a4-4de7-b8e3-9f2c8b55ac77" />
+<img width="402" height="533" alt="Ekran görüntüsü_2025-08-25_03-04-58" src="https://github.com/user-attachments/assets/40fd98df-865a-42eb-9ed7-bce635b5dbde" />
+
+<img width="802" height="633" alt="Ekran görüntüsü_2025-08-25_03-04-45" src="https://github.com/user-attachments/assets/db960b8c-591c-4d19-85fb-1f9f34d8fcbb" />
